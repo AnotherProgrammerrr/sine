@@ -8,7 +8,7 @@
  
  
  A pasta de files é obrigatória<br> 
- ia fazer uma solução pra isso<br> 
- mas a preguiça me atacou forte<br> 
+ Ia fazer uma solução pra isso<br> 
+ Mas a preguiça me atacou forte<br> 
 
-Perdão
+Não é difícil corrigir, se quiser pode tentar aí
