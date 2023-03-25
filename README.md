@@ -11,4 +11,4 @@
  Ia fazer uma solução pra isso<br> 
  Mas a preguiça me atacou forte<br> 
 
-Não é difícil corrigir, se quiser pode tentar aí
+Não é difícil corrigir, quem quiser pode tentar aí
