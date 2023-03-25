@@ -7,7 +7,7 @@
 Um código simples que serve para gerar ondas seno
  
 A pasta de files é extremamente necessária
-Eu ia fazer uma solução pra não ser obrigatória mas eu falhei
+\nEu ia fazer uma solução pra não ser obrigatória mas eu falhei
 
 Perdão
  
