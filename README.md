@@ -5,8 +5,10 @@
   width = 100> 
   
  Um código simples que serve para gerar ondas seno
- A pasta de files é extremamente necessária
- Eu ia fazer uma solução pra isso 
- Mas a preguiça me atacou forte
+ 
+ 
+ A pasta de files é obrigatória<br> 
+ ia fazer uma solução pra isso<br> 
+ mas a preguiça me atacou forte<br> 
 
 Perdão
