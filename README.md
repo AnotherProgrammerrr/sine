@@ -12,6 +12,3 @@
  Mas a preguiça me atacou forte<br> 
 
 Não é difícil corrigir, se quiser pode tentar aí
-
-
-
