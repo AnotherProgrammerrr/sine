@@ -12,3 +12,12 @@
  Mas a preguiça me atacou forte<br> 
 
 Não é difícil corrigir, se quiser pode tentar aí
+
+
+As libraries necessárias são:
+
+numpy=1.24.2<br> 
+sounddevice=0.4.6<br> 
+matplotlib=3.7.1<br> 
+pillow=9.4.0<br> 
+tkinter<br> 
